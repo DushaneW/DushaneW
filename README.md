@@ -42,13 +42,9 @@ Benchmarking and failure analysis for autonomous agents — tracking what happen
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260">
-</p>
 
-<p align="center">
-  <sub>☕ coding, debugging, repeating</sub>
-</p>
+
+
 
 
 

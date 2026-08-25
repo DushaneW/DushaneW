@@ -32,7 +32,7 @@ I like building things, figuring out why they break, and occasionally wondering 
 -  AI & agentic systems
 -  Backend & systems programming
 -  Developer tools & automation
--  Reliability, testing & observability
+-  Reliability testing & observability
 
 ### Featured
 

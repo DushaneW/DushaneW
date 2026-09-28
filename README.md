@@ -4,14 +4,7 @@ Software developer building around **systems, backend infrastructure, AI and dev
 
 I care about understanding how things work under the hood — and building software that is reliable when it leaves the demo.
 
-### What I build
-
-* **AI & agent systems** — evaluation, reliability, tooling
-* **Backend & infrastructure** — APIs, services, databases, distributed systems
-* **Systems software** — Rust, C++, performance-oriented tooling
-* **Developer tooling** — automation, testing, observability
-
-### Stack
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
@@ -20,10 +13,28 @@ I care about understanding how things work under the hood — and building softw
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
 </p>
 
-**Backend:** FastAPI · Node.js · PostgreSQL · REST APIs
-**Infrastructure:** Docker · Linux · Git · CI/CD
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
+
+### What I build
+
+* AI & agent systems
+* Backend & systems software
+* Developer tools & automation
+* Reliability testing & observability
 
 ### Featured
 

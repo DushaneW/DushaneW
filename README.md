@@ -2,7 +2,7 @@
 
 Software developer building around **systems, backend infrastructure, AI and developer tooling**.
 
-I care about understanding how things work under the hood — and building software that is reliable when it leaves the demo.
+I care about understanding how things work under the hood  and building software that is reliable when it leaves the demo.
 
 ### Languages
 

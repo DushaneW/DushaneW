@@ -1,8 +1,8 @@
 # Dushane
 
-Software engineer focused on **systems, backend infrastructure, **. I care about deep technical understanding and shipping reliable, production-ready software
+Software engineer focused on **systems, backend infrastructure, and AI tooling**. I care about deep technical understanding and shipping reliable, production-ready software.
 
-###  Tech Stack
+### Tech Stack
 
 **Languages:**
 <p>
@@ -25,12 +25,9 @@ Software engineer focused on **systems, backend infrastructure, **. I care about
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-### Featured Work
+### Currently Exploring
 
-.
-
-
-
+AI reliability • Systems programming • Cryptography • Infrastructure
 
 
 

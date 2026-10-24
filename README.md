@@ -1,30 +1,3 @@
-# Dushane
-
-Software engineer specializing in **systems programming, backend infrastructure, and AI runtime tooling**. 
-
-I design and build software close to the metal and the operating system: binary data parsers, storage engines, cryptographic workflows, and process-isolated execution environments. My work focuses on predictable performance, strict memory safety, and systems that remain verifiable under hostile input or hardware faults.
-
----
-
-### Core Engineering Domains
-
-| Domain | Technical Scope |
-| :--- | :--- |
-| **Systems & Storage Internals** | On-disk binary formats, B-tree indexing, write-ahead logging (WAL), page caching, zero-copy deserialization, and custom CLI/library toolchains in Rust and C++. |
-| **Backend & Runtime Architecture** | High-throughput APIs, durable SQLite/PostgreSQL job queues, Rust process supervisors, restricted IPC proxies, and containerized Linux services. |
-| **AI Infrastructure & Reliability** | Local inference runtimes, sandboxed agent execution, trajectory telemetry, deterministic evaluation harnesses, and fault-injection testing. |
-| **Cryptography & Security** | Key derivation hierarchies, offline transaction signing, bounded consensus parsing, hostile-input fuzzing, and strict trust-boundary isolation. |
-
----
-
-### Engineering Principles
-
-* **Deterministic Verification:** Preferring differential testing, property-based invariants, and mutation harnesses over brittle mocks or stochastic evaluation.
-* **Hostile-Input Resilience:** Treating all external payloads and files as untrusted; enforcing bounded allocations, explicit error recovery, and zero-panic execution paths.
-* **Local-First & Minimal Dependencies:** Keeping dependency trees shallow, isolating stateful runtimes, and avoiding external network or cloud overhead where local compute suffices.
-
----
-
 ### Tech Stack
 
 **Languages**
